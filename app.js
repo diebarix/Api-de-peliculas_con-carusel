@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const cargarPeliculas = async () => {
     try {
       const respuesta = await fetch(
-        `https://api.themoviedb.org/3/movie/popular?api_key=8732984fbae139504e75aa18e79295ec&language=es-MX&page=${pagina}`
+        /*Aqui va la API*/
       );
 
       if (respuesta.status === 200) {
