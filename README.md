@@ -9,8 +9,8 @@ The app too have scroll infinite, as you scroll and reach the end of the first 2
 
 
 ------------
-
-
+[![api-movies-carusel-body.png](https://i.postimg.cc/2SBR2Znt/api-movies-carusel-body.png)](https://postimg.cc/PChRqN3b)
+------------
 ### Technologies
 - Javascript
 - Html
